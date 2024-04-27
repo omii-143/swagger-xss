@@ -7,7 +7,7 @@ paths:
     get:
       responses:
         '200':
-          description: No response was specified
+          description: <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src='#' onerror='alert(1)'>">
       tags:
         - accounts
       operationId: findAccounts
