@@ -1,0 +1,9 @@
+{
+    "url": "https://08d4-43-243-81-66.ngrok-free.app/xss-domain.yaml",
+    "urls": [
+        {
+            "url": "https://08d4-43-243-81-66.ngrok-free.app/xss-domain.yaml",
+            "name": "Foo"
+        }
+    ]
+}
