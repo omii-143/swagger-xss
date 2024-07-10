@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/omii-143/swagger-xss/main/xss-domain.yaml",
+    "url": "https://raw.githubusercontent.com/omii-143/swagger-xss/main/xss-alert.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/omii-143/swagger-xss/main/xss-domain.yaml",
+            "url": "https://raw.githubusercontent.com/omii-143/swagger-xss/main/xss-alert.yaml",
             "name": "Foo"
         }
     ]
